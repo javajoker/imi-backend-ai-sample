@@ -1,0 +1,83 @@
+{
+  "_comment": "English translations - internal/i18n/locales/en.json",
+  "success": "Success",
+  "error": "Error",
+  "warning": "Warning",
+  "info": "Info",
+
+  "auth.required": "Authentication required",
+  "auth.invalid_token": "Invalid authentication token",
+  "auth.token_expired": "Authentication token has expired",
+  "auth.invalid_credentials": "Invalid email or password",
+  "auth.user_not_found": "User not found",
+  "auth.user_exists": "User with this email already exists",
+  "auth.email_not_verified": "Email address not verified",
+  "auth.login_success": "Login successful",
+  "auth.logout_success": "Logout successful",
+  "auth.register_success": "Registration successful. Please check your email for verification.",
+  "auth.password_reset": "Password reset email sent",
+
+  "user.profile_updated": "Profile updated successfully",
+  "user.not_found": "User not found",
+  "user.suspended": "User account has been suspended",
+  "user.verified": "User account has been verified",
+  "user.verification_pending": "User verification is pending",
+
+  "ip_asset.created": "IP asset created successfully",
+  "ip_asset.updated": "IP asset updated successfully",
+  "ip_asset.deleted": "IP asset deleted successfully",
+  "ip_asset.not_found": "IP asset not found",
+  "ip_asset.approved": "IP asset has been approved",
+  "ip_asset.rejected": "IP asset has been rejected",
+  "ip_asset.verification_pending": "IP asset verification is pending",
+
+  "license.applied": "License application submitted successfully",
+  "license.approved": "License application has been approved",
+  "license.rejected": "License application has been rejected",
+  "license.revoked": "License has been revoked",
+  "license.not_found": "License not found",
+  "license.expired": "License has expired",
+  "license.invalid": "Invalid license",
+
+  "product.created": "Product created successfully",
+  "product.updated": "Product updated successfully",
+  "product.deleted": "Product deleted successfully",
+  "product.not_found": "Product not found",
+  "product.purchased": "Product purchased successfully",
+  "product.out_of_stock": "Product is out of stock",
+
+  "payment.success": "Payment completed successfully",
+  "payment.failed": "Payment failed",
+  "payment.pending": "Payment is being processed",
+  "payment.refunded": "Payment has been refunded",
+  "payment.invalid_amount": "Invalid payment amount",
+  "payment.method_required": "Payment method is required",
+
+  "admin.action_success": "Admin action completed successfully",
+  "admin.access_denied": "Admin access denied",
+  "admin.user_suspended": "User has been suspended",
+  "admin.user_unsuspended": "User has been unsuspended",
+  "admin.settings_updated": "Platform settings updated successfully",
+
+  "validation.required": "%s is required",
+  "validation.invalid": "Invalid %s",
+  "validation.too_short": "%s must be at least %d characters",
+  "validation.too_long": "%s must be no more than %d characters",
+  "validation.invalid_email": "Invalid email address",
+  "validation.invalid_password": "Password must be at least 8 characters with uppercase, lowercase, and number",
+
+  "file.upload_success": "File uploaded successfully",
+  "file.upload_failed": "File upload failed",
+  "file.invalid_type": "Invalid file type",
+  "file.too_large": "File size exceeds limit of %s MB",
+
+  "search.no_results": "No results found",
+  "search.results_found": "%d results found",
+
+  "verification.success": "Verification successful",
+  "verification.failed": "Verification failed",
+  "verification.invalid_code": "Invalid verification code",
+
+  "notification.sent": "Notification sent successfully",
+  "notification.failed": "Failed to send notification"
+}

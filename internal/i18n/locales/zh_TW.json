@@ -1,0 +1,83 @@
+{
+  "_comment": "Traditional Chinese translations - internal/i18n/locales/zh_TW.json",
+  "success": "成功",
+  "error": "錯誤",
+  "warning": "警告",
+  "info": "資訊",
+
+  "auth.required": "需要身份驗證",
+  "auth.invalid_token": "無效的身份驗證令牌",
+  "auth.token_expired": "身份驗證令牌已過期",
+  "auth.invalid_credentials": "無效的電子郵件或密碼",
+  "auth.user_not_found": "找不到用戶",
+  "auth.user_exists": "此電子郵件的用戶已存在",
+  "auth.email_not_verified": "電子郵件地址未驗證",
+  "auth.login_success": "登入成功",
+  "auth.logout_success": "登出成功",
+  "auth.register_success": "註冊成功。請檢查您的電子郵件進行驗證。",
+  "auth.password_reset": "密碼重設電子郵件已發送",
+
+  "user.profile_updated": "個人資料更新成功",
+  "user.not_found": "找不到用戶",
+  "user.suspended": "用戶帳戶已被暫停",
+  "user.verified": "用戶帳戶已通過驗證",
+  "user.verification_pending": "用戶驗證待處理",
+
+  "ip_asset.created": "智慧財產資產創建成功",
+  "ip_asset.updated": "智慧財產資產更新成功",
+  "ip_asset.deleted": "智慧財產資產刪除成功",
+  "ip_asset.not_found": "找不到智慧財產資產",
+  "ip_asset.approved": "智慧財產資產已獲批准",
+  "ip_asset.rejected": "智慧財產資產已被拒絕",
+  "ip_asset.verification_pending": "智慧財產資產驗證待處理",
+
+  "license.applied": "授權申請提交成功",
+  "license.approved": "授權申請已獲批准",
+  "license.rejected": "授權申請已被拒絕",
+  "license.revoked": "授權已被撤銷",
+  "license.not_found": "找不到授權",
+  "license.expired": "授權已過期",
+  "license.invalid": "無效授權",
+
+  "product.created": "產品創建成功",
+  "product.updated": "產品更新成功",
+  "product.deleted": "產品刪除成功",
+  "product.not_found": "找不到產品",
+  "product.purchased": "產品購買成功",
+  "product.out_of_stock": "產品缺貨",
+
+  "payment.success": "付款完成成功",
+  "payment.failed": "付款失敗",
+  "payment.pending": "付款處理中",
+  "payment.refunded": "付款已退款",
+  "payment.invalid_amount": "無效付款金額",
+  "payment.method_required": "需要付款方式",
+
+  "admin.action_success": "管理員操作完成成功",
+  "admin.access_denied": "管理員存取被拒絕",
+  "admin.user_suspended": "用戶已被暫停",
+  "admin.user_unsuspended": "用戶已被解除暫停",
+  "admin.settings_updated": "平台設定更新成功",
+
+  "validation.required": "%s 為必填項",
+  "validation.invalid": "無效的 %s",
+  "validation.too_short": "%s 必須至少 %d 個字符",
+  "validation.too_long": "%s 不得超過 %d 個字符",
+  "validation.invalid_email": "無效的電子郵件地址",
+  "validation.invalid_password": "密碼必須至少 8 個字符，包含大寫、小寫和數字",
+
+  "file.upload_success": "檔案上傳成功",
+  "file.upload_failed": "檔案上傳失敗",
+  "file.invalid_type": "無效的檔案類型",
+  "file.too_large": "檔案大小超過 %s MB 限制",
+
+  "search.no_results": "沒有找到結果",
+  "search.results_found": "找到 %d 個結果",
+
+  "verification.success": "驗證成功",
+  "verification.failed": "驗證失敗",
+  "verification.invalid_code": "無效的驗證碼",
+
+  "notification.sent": "通知發送成功",
+  "notification.failed": "發送通知失敗"
+}
